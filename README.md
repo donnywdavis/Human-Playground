@@ -18,13 +18,13 @@ Read Swift Classes
 
 ### Normal Mode
 
-* [ ] Create a Playground named Human.
-* [ ] Make a class named BodyPart.
-* [ ] Create 10 classes that are subclasses of BodyPart.
-* [ ] Each class should have 2 methods that are specific to that part. Please don't implement the methods. Hint: Functions are the same as Methods
-* [ ] Each class should have 2 properties that are specific to that part. Hint: variables or constants.
+* [x] Create a Playground named Human.
+* [x] Make a class named BodyPart.
+* [x] Create 10 classes that are subclasses of BodyPart.
+* [x] Each class should have 2 methods that are specific to that part. Please don't implement the methods. Hint: Functions are the same as Methods
+* [x] Each class should have 2 properties that are specific to that part. Hint: variables or constants.
 
 ### Hard Mode
 
-* [ ] Connect the body parts through properties.
+* [x] Connect the body parts through properties.
 * [ ] Tell 15 parts to do something from another part... bonus if you can chain 4 + parts through methods.
